@@ -1,0 +1,2 @@
+# Rids-Bot
+A bot
